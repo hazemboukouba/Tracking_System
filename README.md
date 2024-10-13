@@ -6,5 +6,5 @@ Réalisation d'un système de suivi en temps réel pour les véhicules en utilis
 
 ## Composants
 
-# ESP8266 : gère la connectivité Wi-Fi et la transmission de données vers le serveur Web.
-# Module GPS : Capture les coordonnées GPS (latitude, longitude) et les données temporelles.
+ ESP8266 : gère la connectivité Wi-Fi et la transmission de données vers le serveur Web.
+ Module GPS : Capture les coordonnées GPS (latitude, longitude) et les données temporelles.
