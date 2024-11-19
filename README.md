@@ -38,6 +38,7 @@ Voici un aperçu de notre système en action :
 ![Aperçu du projet](./Capture3.PNG)
 
 ## 📧 Contact
+Hazem BOUKOUBA - Ingénieur en systèmes embarqués passionné.
 Pour toute question ou suggestion, contactez-moi à www.linkedin.com/in/boukouba-hazem
 
 
