@@ -1,44 +1,44 @@
-# Système de Suivi GPS pour Véhicules 🚗📡
+# Tracking System 🚗📡
 
 ## **📖 Description**
 
-Ce projet est une solution de suivi en temps réel pour les véhicules, conçue à l'aide d'un **module GPS**, d'un **ESP8266**, et d'une plateforme en ligne pour la visualisation des données.
+This project is a real-time vehicle tracking solution designed using a **GPS module**, an **ESP8266**, and an online platform for data visualization.
 
 ---
-## 📋 Fonctionnalités
-- 📍 **Localisation GPS** : Capture des coordonnées géographiques en temps réel.
-- 🌐 **Connectivité Wi-Fi** : Transfert des données via l'ESP8266.
-- 💻 **Interface Web** : Visualisation des positions sur une carte interactive.
-- 🔧 **Simplicité** : Facile à configurer et personnaliser.
+## 📋 Features
+- 📍 **GPS Location** : Real-time capture of geographical coordinates.
+- 🌐 **Wi-Fi Connectivity** : Data transmission via the ESP8266.
+- 💻 **Web Interface** : Display positions on an interactive map.
+- 🔧 **Simplicity** : Easy to set up and customize.
 ---
-## 🛠️ Matériel Utilisé
-- **Module GPS** : Fournit les données de localisation.
-- **ESP8266** : Permet la connectivité réseau.
-- **Alimentation électrique** : Batterie ou adaptateur secteur.
+## 🛠️ Hardware Used
+- **GPS Module** : Provides location data.
+- **ESP8266** : Enables network connectivity.
+- **Power Supply** : Battery or power adapter.
 ---
-## 💻 Logiciels Utilisés
-- **Arduino IDE** : Programmation du microcontrôleur.
-- **Plateforme en ligne** : Affichage des données (par exemple, Google Maps ).
+## 💻 Software Used
+- **Arduino IDE** : For microcontroller programming.
+- **Online Platform** : For displaying data (Google Maps).
 ---
-## 🚀 Comment Démarrer
-1. Téléchargez ou clonez ce dépôt :
-   ```bash
-   git clone https://github.com/hazemboukouba/tracking_system_project_esp8266_GPS.git
-2. Configurez le fichier de code pour inclure vos informations Wi-Fi
-3. Téléversez le code dans l'ESP8266 via l'Arduino IDE.
-4. Lancez le système et commencez à suivre votre véhicule en temps réel !
+## 📜 How to Use
+1. Clone this repository:
+   git clone https://github.com/hazemboukouba/Tracking_System.git
+   
+3. Configure the code with your Wi-Fi credentials.
+4. Upload the code to the ESP8266 using the Arduino IDE.
+5. Launch the system and start tracking your vehicle in real time.
 ---
-## 📸 Aperçu
+## 📸 Preview
 
-Voici un aperçu de notre système en action :
+Here’s a preview of the system in action:
 
 ![Aperçu du projet](./Capture3.PNG)
 
 ---
 
 ## 📧 Contact
-Hazem BOUKOUBA - Ingénieur en systèmes embarqués passionné.
-Pour toute question ou suggestion, contactez-moi à www.linkedin.com/in/boukouba-hazem
+Hazem BOUKOUBA - Embedded systems engineer with a passion for IoT.
+For any questions or suggestions, feel free to contact me via www.linkedin.com/in/boukouba-hazem
 
 
  
